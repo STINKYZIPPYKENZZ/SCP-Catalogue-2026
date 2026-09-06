@@ -1,7 +1,7 @@
 {
   "name": "cheese",
   "version": "0.0.0",
-  "homepage": "https://stinkyzippykenzz.github.io/SCP-Catalogue-2026/",
+  "homepage": "https://stinkyzippykenzz.github.io/SCP-Catalogue-2026",
   "type": "module",
   "scripts": {
     "dev": "vite",
