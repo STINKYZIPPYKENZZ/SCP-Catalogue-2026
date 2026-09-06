@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/scp2026/',
+  base: '/SCP-Catalogue-2026/',
 })
