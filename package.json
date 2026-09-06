@@ -2,14 +2,14 @@
   "name": "cheese",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/STINKYZIPPYKENZZ/SCP-2026",
+  "homepage": "https://github.com/STINKYZIPPYKENZZ/SCP-Catalogue.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
