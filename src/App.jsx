@@ -1,10 +1,10 @@
 import Menu from "./Menu"
 import SCP from "./SCP"
 import {useState, useEffect} from 'react'
-import scpData from "./random_scps.json"
+import scpData from "./data/scp2026.json"
 import {Container, Row, Col, Card} from 'react-bootstrap'
 
-
+// Main App Component
 function App() {
   const [scps, setScps] = useState([]);
   const [selectedSCP, setSelectedSCP] = useState(null);
@@ -20,12 +20,12 @@ function App() {
   return (
     console.log("Selected SCP Image:", selectedSCP?.image),
     <Container className="mt-4">
-      <h1 className="text-center mb-4">SCP React Application</h1>
+      <h1 className="text-center mb-4">SCP Catalogue</h1>
       <Row>
         {/* Left Menu */}
         <Col md={4}>
           <Card>
-            <Card.Header>Available SCPs</Card.Header>
+            <Card.Header>Available SCP'S</Card.Header>
             <Card.Body>
               <Menu scps={scps} onSelect={handleSelect} />
             </Card.Body>
@@ -43,7 +43,7 @@ function App() {
             ) : (
               <Card.Img
                 variant="top"
-                src="/images/52061217_0.jpg"
+                src="src/images/SCP_logo.jpg"
                 alt="Placeholder SCP"
               />
             )}
@@ -75,4 +75,3 @@ function App() {
 }
 
 export default App;
-

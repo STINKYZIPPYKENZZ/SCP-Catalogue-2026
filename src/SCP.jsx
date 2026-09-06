@@ -1,6 +1,6 @@
 import {Card} from 'react-bootstrap'
 
-
+// SCP Component to display details of the selected SCP
 function SCP({ selectedSCP }) {
   return (
     <Card className="mb-3">
@@ -8,10 +8,10 @@ function SCP({ selectedSCP }) {
       <Card.Body>
         <Card.Title>SCP Class: {selectedSCP.class}</Card.Title>
         <Card.Text>
-          <strong>Description:</strong> {selectedSCP.desc}
+          <strong>Containment:</strong> {selectedSCP.containment}
         </Card.Text>
         <Card.Text>
-          <strong>Containment:</strong> {selectedSCP.containment}
+          <strong>Description:</strong> {selectedSCP.description}
         </Card.Text>
       </Card.Body>
     </Card>

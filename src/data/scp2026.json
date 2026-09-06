@@ -1,0 +1,37 @@
+[
+  {
+    "item": "SCP-049",
+    "class": "Euclid",
+    "containment": "SCP-049 is to be housed in a secure humanoid containment chamber at all times. Interaction with the entity is restricted to approved research personnel who have received Level 2 clearance or higher. Any personnel entering the containment area must wear full protective equipment and remain under constant observation. Physical contact with SCP-049 is strictly prohibited unless authorized for testing purposes, as direct contact can result in immediate fatality. Interviews and examinations must be recorded and supervised by armed security staff.",
+    "description": "SCP-049 is a humanoid entity resembling a medieval plague doctor dressed in black robes and a distinctive beaked mask. The outfit appears to be part of its body rather than separate clothing. SCP-049 claims to be a physician searching for a condition it refers to as 'the Pestilence', although no scientific evidence has verified the existence of such a disease. The entity is highly intelligent, capable of speech in multiple languages, and generally cooperative until it believes an individual is afflicted. Victims terminated by SCP-049 are often subjected to experimental surgical procedures in an attempt to create what it considers a cure.",
+    "image": "./src/images/scp049.png"
+  },
+  {
+    "item": "SCP-096",
+    "class": "Euclid",
+    "containment": "SCP-096 must be kept within a sealed steel containment chamber located in a remote Foundation facility. No cameras, photographs, sketches, video recordings, or visual representations of SCP-096's face are permitted without authorization. Any discovered images containing its facial features must be immediately destroyed or digitally censored. Personnel assigned to the anomaly must follow strict visual safety protocols, and accidental exposure events must be reported without delay. Monitoring systems should be configured to avoid displaying the subject's face while still allowing observation of its containment area.",
+    "description": "SCP-096 is an abnormally tall and extremely thin humanoid creature with pale skin and disproportionally long limbs. Under normal conditions it is usually docile, spending long periods standing motionless or pacing within its containment area. However, if any person views its face, even through a photograph, video recording, or a partial image, SCP-096 enters a state of extreme emotional distress followed by relentless aggression. Once triggered, the entity will pursue the viewer across any distance, overcoming nearly all physical obstacles until it reaches its target. After eliminating the individual responsible for the viewing event, SCP-096 typically returns to a passive state.",
+    "image": "./src/images/scp096.jpg"
+  },
+  {
+    "item": "SCP-106",
+    "class": "Keter",
+    "containment": "SCP-106 is to be contained within a heavily reinforced containment chamber constructed from corrosion-resistant materials. The chamber must undergo frequent inspections to identify structural damage caused by the entity's anomalous properties. Security systems, automated lockdown mechanisms, and emergency response teams must remain on standby at all times due to SCP-106's history of containment breaches. In the event of an escape, site personnel are to follow established recontainment procedures and evacuate nonessential staff from affected areas immediately.",
+    "description": "SCP-106 appears as an elderly humanoid male displaying advanced stages of physical decay. The entity possesses the ability to pass through solid matter with little resistance, often leaving behind a corrosive substance that rapidly deteriorates surfaces it contacts. SCP-106 typically displays predatory behavior, preferring to isolate and capture individuals before transporting them to what researchers refer to as a 'pocket dimension.' Victims taken into this dimension are rarely recovered, and those who are recovered often suffer severe physical and psychological trauma. SCP-106 demonstrates patience, intelligence, and a disturbing tendency to toy with prey before capture.",
+    "image": "./src/images/scp106.png"
+  },
+  {
+    "item": "SCP-999",
+    "class": "Safe",
+    "containment": "SCP-999 is housed in a comfortable and enriched habitat designed to promote healthy activity and social interaction. The entity is permitted supervised access to approved Foundation personnel for morale and behavioral studies. Its containment area must be kept clean and stocked with suitable food sources, particularly confectionery items, which SCP-999 appears to enjoy. Regular health assessments are conducted to ensure the entity remains in optimal condition, although it has shown no signs of hostility or dangerous behavior.",
+    "description": "SCP-999 is a large, orange, gelatinous organism with a cheerful and highly sociable personality. The creature is capable of altering its shape, flattening or stretching itself to move through small spaces and interact with its environment. SCP-999 is known for seeking out human contact and often displays playful behavior such as bouncing, rolling, and mimicking simple games. Physical interaction typically produces feelings of happiness, relaxation, and euphoria in affected individuals. Due to its consistently friendly nature and apparent desire to improve the emotional well-being of others, SCP-999 is considered one of the most popular anomalies among Foundation personnel.",
+    "image": "./src/images/scp999.jpg"
+  },
+  {
+    "item": "SCP-682",
+    "class": "Keter",
+    "containment": "SCP-682 is to remain submerged within a specialized containment tank filled with a highly corrosive acid solution designed to limit its regenerative capabilities. The containment chamber is subject to continuous surveillance and reinforced with multiple layers of security systems to prevent escape. Any signs of increased activity, adaptation, or structural weakness within the containment area must be addressed immediately. Testing involving SCP-682 requires approval from senior Foundation officials due to the extreme risks posed by the entity and its history of surviving nearly all termination attempts.",
+    "description": "SCP-682 is a massive reptilian creature possessing extraordinary intelligence, strength, durability, and regenerative abilities. The entity demonstrates intense hostility toward nearly all forms of life and frequently expresses contempt for humanity. SCP-682 is capable of rapidly adapting to environmental threats, making conventional containment and termination methods largely ineffective. Damage that would be fatal to most organisms can often be repaired within minutes or hours, and the creature has repeatedly survived encounters with other dangerous anomalies. Because of its adaptability, resilience, and persistent efforts to escape containment, SCP-682 is considered one of the Foundation's most significant ongoing threats.",
+    "image": "./src/images/scp682.jpg"
+  }
+]

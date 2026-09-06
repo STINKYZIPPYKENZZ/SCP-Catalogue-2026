@@ -2,7 +2,7 @@
   "name": "cheese",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://STINKYZIPPYKENZZ.github.io/SCP-6210/dist",
+  "homepage": "https://github.com/STINKYZIPPYKENZZ/SCP-2026",
   "type": "module",
   "scripts": {
     "dev": "vite",
